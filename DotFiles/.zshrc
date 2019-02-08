@@ -1,2 +1,4 @@
+# Pure Prompt
 autoload -U promptinit; promptinit
-prompt spaceship
+prompt pure
+PURE_PROMPT_SYMBOL="$"
